@@ -35,6 +35,14 @@ This solution is compatible with `Unity 2019.3`.
 | MacOS       | OpenGL       |                                                   |                    |
 | MacOS       | Metal        |                                                   | :white_check_mark: |
 
+
+| Platform    |       Defaults     |         HDRP       |         URP        |
+| ----------- | -------------------| ------------------ | ------------------ |
+| Windows     | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
+| MacOS       |                    | :white_check_mark: | :white_check_mark: |                                                 |                    | 
+
+
+
 ### Supported Browsers
 
 Browser support depends on the status of each browser's WebRTC support.
